@@ -1,0 +1,18 @@
+body{
+    border: 2px solid black;}
+h1{border: 1px solid black;
+padding: 2px;
+margin: 4px;
+text-align: center;}
+.alpha{border: 1px solid black;
+    padding: 2px;
+    margin: 4px;
+    text-align: center;}
+.bravo{border: 1px solid black;
+        padding: 2px;
+        margin: 3px;
+        height: 8cm;
+        width: 8cm;
+    text-align: center;} 
+.zulu{display: inline-flex;}
+
